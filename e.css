@@ -262,6 +262,7 @@ header {
 
 .view {
   display: flex;
+  align-items: center;
   font-family: "Poppins";
   font-size: 28px;
   font-weight: 500;
