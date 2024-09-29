@@ -148,7 +148,7 @@ ul {
 
 .div4 {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
 }
 
