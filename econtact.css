@@ -133,7 +133,7 @@ ul {
  /* justify-content: left; */
  position: absolute;
  top: 825px;
- left: 140px;
+ left: 120px;
 }
 
 
@@ -142,7 +142,7 @@ ul {
   justify-content: right;
   flex-direction: column;
   position: absolute;
- right: 140px;
+ right: 120px;
  top: 800px;
 }
 
